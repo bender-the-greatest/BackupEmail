@@ -1,6 +1,4 @@
-﻿###########################################################################################
-# baf - alexa                                                                             #
-#                                                                                         #
+###########################################################################################
 # This script will send the status of the last backup event. I designed it to work        #
 # specifically when any backup task is marked as completed (EventId 14). Simply put,      #
 # this script is meant to be run by an event triggered by EventId 14 in the               #
